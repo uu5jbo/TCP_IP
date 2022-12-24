@@ -2,6 +2,8 @@
 #include "etcp.h"
 //#include "wincompat.c"
 
+/* The string was added by me on github.com in order to test how to edit the file right from the github */
+
 void error( int status, int err, char *fmt, ... )
 {
     va_list ap;
